@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-title: DINOv3 for Temporal Change Detection in SAR Imagery - Ground Truth & Data
+title: DDINOv3-SAR-Change
 authors:
 - name: Jesse Bressers
 version: v1.0.0
-repository: https://github.com/BressersJesse/DINOv3-for-Temporal-Change-Detection-in-Synthetic-Aperture-Radar-Imagery
-message: "If used, cite our IGARSS 2026 paper"
+repository: https://github.com/BressersJesse/DINOv3-SAR-Change
+message: "If used, cite our IGARSS 2026 paper: DINOv3-for-Temporal-Change-Detection-in-Synthetic-Aperture-Radar-Imagery"
